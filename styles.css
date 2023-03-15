@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to left, rgb(215, 62, 215), rgb(200, 23, 23));
+  text-align: center;
+}
+
+#title {
+  font-family: Apple Chancery;
+  font-size: 100px;
+  padding-top: 40px;
+}
+
+#time {
+  font-family: Apple Chancery;
+  font-size: 80px;
+  margin-top: -60px;
+  color: yellow;
+}
