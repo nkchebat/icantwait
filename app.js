@@ -1,7 +1,7 @@
 function timer() {
     // Grab the current time and create an array for the day and hour of the event
     let current = new Date();
-    let evented = [24, 20];
+    let evented = [24, 22];
 
     // Get the span tags so we can insert our calculation
     let days = document.getElementById("days")
